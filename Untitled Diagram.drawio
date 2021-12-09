@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-08T06:51:37.740Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Fis9_GXLHbqu9k6r_0Kn" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-09T04:31:33.142Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.93 Safari/537.36" etag="Pn5XNmzxighPZYIyjTww" version="15.9.1" type="github">
   <diagram id="6LzY-GwxLYfI5oQ5h1-i" name="第 1 页">
     <mxGraphModel dx="782" dy="506" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="1" shadow="0">
       <root>
@@ -40,17 +40,6 @@
         </mxCell>
         <mxCell id="pvRorkdOcFRVt22xa30s-7" value="$$Agent$$" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="324.6474358974359" y="139" width="68" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="LDNhD_ikxuT9xY4Xif5G-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=14;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="pvRorkdOcFRVt22xa30s-3" target="wbnTD-iwvaI9E5Lmj2qQ-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="324" y="195" as="sourcePoint" />
-            <mxPoint x="158" y="356" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="LDNhD_ikxuT9xY4Xif5G-19" value="与仿真器交互" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="LDNhD_ikxuT9xY4Xif5G-14">
-          <mxGeometry x="0.3944" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="LDNhD_ikxuT9xY4Xif5G-23" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;strokeWidth=2;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=orthogonalEdgeStyle;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -96,14 +85,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LDNhD_ikxuT9xY4Xif5G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="pvRorkdOcFRVt22xa30s-3" target="wbnTD-iwvaI9E5Lmj2qQ-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="LDNhD_ikxuT9xY4Xif5G-27" value="仿真器中的转移" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="LDNhD_ikxuT9xY4Xif5G-10">
-          <mxGeometry x="-0.1124" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="LDNhD_ikxuT9xY4Xif5G-25" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;strokeWidth=2;" edge="1" parent="1" target="LDNhD_ikxuT9xY4Xif5G-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="472" y="210" as="sourcePoint" />
@@ -128,6 +109,25 @@
         <mxCell id="LDNhD_ikxuT9xY4Xif5G-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=52.5;exitPerimeter=0;fontSize=14;strokeWidth=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" edge="1" parent="1" source="wbnTD-iwvaI9E5Lmj2qQ-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="401" y="303" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDNhD_ikxuT9xY4Xif5G-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=14;strokeWidth=2;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="pvRorkdOcFRVt22xa30s-3" target="wbnTD-iwvaI9E5Lmj2qQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LDNhD_ikxuT9xY4Xif5G-27" value="仿真器中的转移" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="LDNhD_ikxuT9xY4Xif5G-10">
+          <mxGeometry x="-0.1124" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDNhD_ikxuT9xY4Xif5G-14" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=14;strokeWidth=2;entryX=1;entryY=0.5;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fillColor=#d5e8d4;strokeColor=#82b366;" edge="1" parent="1" source="pvRorkdOcFRVt22xa30s-3" target="wbnTD-iwvaI9E5Lmj2qQ-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="324" y="195" as="sourcePoint" />
+            <mxPoint x="158" y="356" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LDNhD_ikxuT9xY4Xif5G-19" value="与仿真器交互" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" vertex="1" connectable="0" parent="LDNhD_ikxuT9xY4Xif5G-14">
+          <mxGeometry x="0.3944" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
