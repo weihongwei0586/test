@@ -1,26 +1,64 @@
-<mxfile host="app.diagrams.net" modified="2022-05-17T11:07:28.034Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="wgOzrWTLYNLt-UzOCjrH" version="18.0.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-18T04:07:08.259Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="sszIG00MEfvYCG9d2Q-D" version="18.0.6" type="github" pages="2">
   <diagram name="耗电预估" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="1106" dy="737" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1106" dy="623" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Up1GlSC3BA4K50k00m5R-45" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Up1GlSC3BA4K50k00m5R-45" value="" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="170" width="320" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Up1GlSC3BA4K50k00m5R-41" value="控制文本显示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Up1GlSC3BA4K50k00m5R-41" value="控制文本显示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="255" y="220" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Up1GlSC3BA4K50k00m5R-42" value="控制颜色显示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Up1GlSC3BA4K50k00m5R-42" value="控制颜色显示" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="425" y="220" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Up1GlSC3BA4K50k00m5R-43" value="控制电池图标" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Up1GlSC3BA4K50k00m5R-43" value="控制电池图标" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="575" y="220" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Up1GlSC3BA4K50k00m5R-46" value="在选中select时触发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Up1GlSC3BA4K50k00m5R-46" value="在选中select时触发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="470" y="320" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Up1GlSC3BA4K50k00m5R-47" value="在set中如何拿到数据？从路线信息可以拿到setRouteInfo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="Up1GlSC3BA4K50k00m5R-47" value="在set中如何拿到数据？从路线信息可以拿到setRouteInfo" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="140" y="390" width="320" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ih1I6UMWrcXSVTMGjGFv" name="首页路线推荐">
+    <mxGraphModel dx="1033" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="L68ZO3eX6M34tfz0iJyJ-3" value="&lt;font face=&quot;Times New Roman&quot;&gt;提取首页View为自定义View&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#5C5C5C;sketch=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="170" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="L68ZO3eX6M34tfz0iJyJ-18" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="L68ZO3eX6M34tfz0iJyJ-10" target="L68ZO3eX6M34tfz0iJyJ-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L68ZO3eX6M34tfz0iJyJ-10" value="自定义XML" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" vertex="1" parent="1">
+          <mxGeometry x="40" y="220" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L68ZO3eX6M34tfz0iJyJ-19" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="L68ZO3eX6M34tfz0iJyJ-12" target="L68ZO3eX6M34tfz0iJyJ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L68ZO3eX6M34tfz0iJyJ-12" value="自定义class" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" vertex="1" parent="1">
+          <mxGeometry x="150" y="220" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L68ZO3eX6M34tfz0iJyJ-20" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="L68ZO3eX6M34tfz0iJyJ-13" target="L68ZO3eX6M34tfz0iJyJ-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L68ZO3eX6M34tfz0iJyJ-13" value="XML引入" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" vertex="1" parent="1">
+          <mxGeometry x="260" y="220" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L68ZO3eX6M34tfz0iJyJ-21" style="edgeStyle=orthogonalEdgeStyle;curved=0;rounded=1;sketch=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="L68ZO3eX6M34tfz0iJyJ-14" target="L68ZO3eX6M34tfz0iJyJ-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="L68ZO3eX6M34tfz0iJyJ-14" value="目标类成员持有该对象" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" vertex="1" parent="1">
+          <mxGeometry x="374" y="220" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="L68ZO3eX6M34tfz0iJyJ-16" value="操作自定义View" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;fontColor=#5C5C5C;strokeColor=#006658;fillColor=#21C0A5;" vertex="1" parent="1">
+          <mxGeometry x="500" y="220" width="80" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
