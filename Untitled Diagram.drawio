@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T08:16:49.860Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.51" etag="GhIHX-cNz2Bn4kel92FJ" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-12T08:38:28.321Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.51" etag="PHyR4O-J71TmrD5a-imL" version="20.0.4" type="github" pages="2">
   <diagram id="1vxpSgq5csgqf0Tu3X_H" name="在微博">
     <mxGraphModel dx="946" dy="536" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#EEEEEE" math="0" shadow="0">
       <root>
@@ -8,10 +8,22 @@
           <mxGeometry x="262" y="131" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="3ZjeZrgAG58Rw7lWdJt2-4" value="判断是不是TaskRoot" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="211" y="271" width="128" height="26" as="geometry" />
+          <mxGeometry x="254" y="283" width="128" height="26" as="geometry" />
         </mxCell>
         <mxCell id="3ZjeZrgAG58Rw7lWdJt2-5" value="隐私弹窗判断逻辑" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
-          <mxGeometry x="211" y="336" width="114" height="26" as="geometry" />
+          <mxGeometry x="249" y="345" width="114" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZjeZrgAG58Rw7lWdJt2-6" value="SplashActorGroup6个SplashActors" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="185" y="224" width="205" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZjeZrgAG58Rw7lWdJt2-7" value="SplashActorGroup.onCreateView" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="201" y="427" width="195" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZjeZrgAG58Rw7lWdJt2-9" value="对于Group中的每个actor，执行onCreateView" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="417" y="427" width="261" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZjeZrgAG58Rw7lWdJt2-10" value="有的actor没有重写onCreateView方法，执行空方法体" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
+          <mxGeometry x="688" y="427" width="300" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
